@@ -1,0 +1,131 @@
+location_id,sensor_id,location_name,datetime_utc,datetime_local,parameter,parameter_display,units,value,coordinates_latitude,coordinates_longitude,country_code,country_name,is_mobile,is_monitor,date,hour_utc,day_of_week,month,has_coordinates
+13,13866,"Delhi Technological University, Delhi - CPCB",2018-02-22 04:00:00+00:00,2018-02-22 09:30:00+05:30,unknown,unknown,unknown,40.3,28.744,77.12,unknown,unknown,,,2018-02-22,4,Thursday,2018-02,True
+17,35,"R K Puram, Delhi - DPCC",2018-02-21 21:15:00+00:00,2018-02-22 02:45:00+05:30,unknown,unknown,unknown,201.0,28.563262,77.186937,unknown,unknown,,,2018-02-21,21,Wednesday,2018-02,True
+17,36,"R K Puram, Delhi - DPCC",2018-02-21 20:45:00+00:00,2018-02-22 02:15:00+05:30,unknown,unknown,unknown,77.6,28.563262,77.186937,unknown,unknown,,,2018-02-21,20,Wednesday,2018-02,True
+17,393,"R K Puram, Delhi - DPCC",2018-02-21 21:15:00+00:00,2018-02-22 02:45:00+05:30,unknown,unknown,unknown,56.9,28.563262,77.186937,unknown,unknown,,,2018-02-21,21,Wednesday,2018-02,True
+17,394,"R K Puram, Delhi - DPCC",2018-01-24 09:30:00+00:00,2018-01-24 15:00:00+05:30,unknown,unknown,unknown,95.33,28.563262,77.186937,unknown,unknown,,,2018-01-24,9,Wednesday,2018-01,True
+17,399,"R K Puram, Delhi - DPCC",2018-02-21 21:15:00+00:00,2018-02-22 02:45:00+05:30,unknown,unknown,unknown,339.0,28.563262,77.186937,unknown,unknown,,,2018-02-21,21,Wednesday,2018-02,True
+17,12234782,"R K Puram, Delhi - DPCC",2026-03-13 04:30:00+00:00,2026-03-13 10:00:00+05:30,unknown,unknown,unknown,1.37,28.563262,77.186937,unknown,unknown,,,2026-03-13,4,Friday,2026-03,True
+17,12234783,"R K Puram, Delhi - DPCC",2026-03-13 04:30:00+00:00,2026-03-13 10:00:00+05:30,unknown,unknown,unknown,5.6,28.563262,77.186937,unknown,unknown,,,2026-03-13,4,Friday,2026-03,True
+17,12234784,"R K Puram, Delhi - DPCC",2026-03-13 04:30:00+00:00,2026-03-13 10:00:00+05:30,unknown,unknown,unknown,21.6,28.563262,77.186937,unknown,unknown,,,2026-03-13,4,Friday,2026-03,True
+17,12234785,"R K Puram, Delhi - DPCC",2026-03-13 04:30:00+00:00,2026-03-13 10:00:00+05:30,unknown,unknown,unknown,35.4,28.563262,77.186937,unknown,unknown,,,2026-03-13,4,Friday,2026-03,True
+17,12234786,"R K Puram, Delhi - DPCC",2026-03-13 04:30:00+00:00,2026-03-13 10:00:00+05:30,unknown,unknown,unknown,266.0,28.563262,77.186937,unknown,unknown,,,2026-03-13,4,Friday,2026-03,True
+17,12234787,"R K Puram, Delhi - DPCC",2026-03-13 04:30:00+00:00,2026-03-13 10:00:00+05:30,unknown,unknown,unknown,140.0,28.563262,77.186937,unknown,unknown,,,2026-03-13,4,Friday,2026-03,True
+17,12234788,"R K Puram, Delhi - DPCC",2026-03-13 04:30:00+00:00,2026-03-13 10:00:00+05:30,unknown,unknown,unknown,55.0,28.563262,77.186937,unknown,unknown,,,2026-03-13,4,Friday,2026-03,True
+17,12234789,"R K Puram, Delhi - DPCC",2026-03-13 04:30:00+00:00,2026-03-13 10:00:00+05:30,unknown,unknown,unknown,16.2,28.563262,77.186937,unknown,unknown,,,2026-03-13,4,Friday,2026-03,True
+17,12234790,"R K Puram, Delhi - DPCC",2026-03-13 04:30:00+00:00,2026-03-13 10:00:00+05:30,unknown,unknown,unknown,27.5,28.563262,77.186937,unknown,unknown,,,2026-03-13,4,Friday,2026-03,True
+17,14340713,"R K Puram, Delhi - DPCC",2026-03-13 04:30:00+00:00,2026-03-13 10:00:00+05:30,unknown,unknown,unknown,0.0161,28.563262,77.186937,unknown,unknown,,,2026-03-13,4,Friday,2026-03,True
+17,14340714,"R K Puram, Delhi - DPCC",2026-03-13 04:30:00+00:00,2026-03-13 10:00:00+05:30,unknown,unknown,unknown,210.0,28.563262,77.186937,unknown,unknown,,,2026-03-13,4,Friday,2026-03,True
+17,14340715,"R K Puram, Delhi - DPCC",2026-03-13 04:30:00+00:00,2026-03-13 10:00:00+05:30,unknown,unknown,unknown,1.3,28.563262,77.186937,unknown,unknown,,,2026-03-13,4,Friday,2026-03,True
+50,71,"Punjabi Bagh, Delhi - DPCC",2018-01-24 09:30:00+00:00,2018-01-24 15:00:00+05:30,unknown,unknown,unknown,39.07,28.674045,77.131023,unknown,unknown,,,2018-01-24,9,Wednesday,2018-01,True
+50,395,"Punjabi Bagh, Delhi - DPCC",2018-02-21 21:15:00+00:00,2018-02-22 02:45:00+05:30,unknown,unknown,unknown,322.0,28.674045,77.131023,unknown,unknown,,,2018-02-21,21,Wednesday,2018-02,True
+50,396,"Punjabi Bagh, Delhi - DPCC",2018-02-21 21:15:00+00:00,2018-02-22 02:45:00+05:30,unknown,unknown,unknown,183.0,28.674045,77.131023,unknown,unknown,,,2018-02-21,21,Wednesday,2018-02,True
+50,397,"Punjabi Bagh, Delhi - DPCC",2018-02-21 21:15:00+00:00,2018-02-22 02:45:00+05:30,unknown,unknown,unknown,3.1,28.674045,77.131023,unknown,unknown,,,2018-02-21,21,Wednesday,2018-02,True
+50,398,"Punjabi Bagh, Delhi - DPCC",2018-02-21 21:15:00+00:00,2018-02-22 02:45:00+05:30,unknown,unknown,unknown,9.2,28.674045,77.131023,unknown,unknown,,,2018-02-21,21,Wednesday,2018-02,True
+50,400,"Punjabi Bagh, Delhi - DPCC",2018-02-21 20:45:00+00:00,2018-02-22 02:15:00+05:30,unknown,unknown,unknown,92.9,28.674045,77.131023,unknown,unknown,,,2018-02-21,20,Wednesday,2018-02,True
+50,12234791,"Punjabi Bagh, Delhi - DPCC",2026-03-13 04:30:00+00:00,2026-03-13 10:00:00+05:30,unknown,unknown,unknown,1.67,28.674045,77.131023,unknown,unknown,,,2026-03-13,4,Friday,2026-03,True
+50,12234792,"Punjabi Bagh, Delhi - DPCC",2026-03-13 04:30:00+00:00,2026-03-13 10:00:00+05:30,unknown,unknown,unknown,4.4,28.674045,77.131023,unknown,unknown,,,2026-03-13,4,Friday,2026-03,True
+50,12234793,"Punjabi Bagh, Delhi - DPCC",2026-03-13 04:30:00+00:00,2026-03-13 10:00:00+05:30,unknown,unknown,unknown,28.4,28.674045,77.131023,unknown,unknown,,,2026-03-13,4,Friday,2026-03,True
+50,12234794,"Punjabi Bagh, Delhi - DPCC",2026-03-13 04:30:00+00:00,2026-03-13 10:00:00+05:30,unknown,unknown,unknown,38.9,28.674045,77.131023,unknown,unknown,,,2026-03-13,4,Friday,2026-03,True
+50,12234795,"Punjabi Bagh, Delhi - DPCC",2026-03-13 04:30:00+00:00,2026-03-13 10:00:00+05:30,unknown,unknown,unknown,215.0,28.674045,77.131023,unknown,unknown,,,2026-03-13,4,Friday,2026-03,True
+50,12234796,"Punjabi Bagh, Delhi - DPCC",2026-03-13 04:30:00+00:00,2026-03-13 10:00:00+05:30,unknown,unknown,unknown,110.0,28.674045,77.131023,unknown,unknown,,,2026-03-13,4,Friday,2026-03,True
+50,12234797,"Punjabi Bagh, Delhi - DPCC",2026-03-13 04:30:00+00:00,2026-03-13 10:00:00+05:30,unknown,unknown,unknown,47.0,28.674045,77.131023,unknown,unknown,,,2026-03-13,4,Friday,2026-03,True
+50,12234798,"Punjabi Bagh, Delhi - DPCC",2026-03-13 04:30:00+00:00,2026-03-13 10:00:00+05:30,unknown,unknown,unknown,40.7,28.674045,77.131023,unknown,unknown,,,2026-03-13,4,Friday,2026-03,True
+50,12234799,"Punjabi Bagh, Delhi - DPCC",2026-03-13 04:30:00+00:00,2026-03-13 10:00:00+05:30,unknown,unknown,unknown,27.2,28.674045,77.131023,unknown,unknown,,,2026-03-13,4,Friday,2026-03,True
+50,14340716,"Punjabi Bagh, Delhi - DPCC",2026-03-13 04:30:00+00:00,2026-03-13 10:00:00+05:30,unknown,unknown,unknown,0.0186999999999999,28.674045,77.131023,unknown,unknown,,,2026-03-13,4,Friday,2026-03,True
+50,14340717,"Punjabi Bagh, Delhi - DPCC",2026-03-13 04:30:00+00:00,2026-03-13 10:00:00+05:30,unknown,unknown,unknown,212.0,28.674045,77.131023,unknown,unknown,,,2026-03-13,4,Friday,2026-03,True
+50,14340718,"Punjabi Bagh, Delhi - DPCC",2026-03-13 04:30:00+00:00,2026-03-13 10:00:00+05:30,unknown,unknown,unknown,1.1,28.674045,77.131023,unknown,unknown,,,2026-03-13,4,Friday,2026-03,True
+103,13861,"Income Tax Office, Delhi - CPCB",2018-02-22 03:45:00+00:00,2018-02-22 09:15:00+05:30,unknown,unknown,unknown,224.0,28.6235,77.2494,unknown,unknown,,,2018-02-22,3,Thursday,2018-02,True
+103,13862,"Income Tax Office, Delhi - CPCB",2018-02-22 03:45:00+00:00,2018-02-22 09:15:00+05:30,unknown,unknown,unknown,312.0,28.6235,77.2494,unknown,unknown,,,2018-02-22,3,Thursday,2018-02,True
+103,13863,"Income Tax Office, Delhi - CPCB",2018-02-22 03:45:00+00:00,2018-02-22 09:15:00+05:30,unknown,unknown,unknown,132.1,28.6235,77.2494,unknown,unknown,,,2018-02-22,3,Thursday,2018-02,True
+235,380,"Anand Vihar, New Delhi - DPCC",2018-01-23 04:30:00+00:00,2018-01-23 10:00:00+05:30,unknown,unknown,unknown,17.87,28.646835,77.316032,unknown,unknown,,,2018-01-23,4,Tuesday,2018-01,True
+235,383,"Anand Vihar, New Delhi - DPCC",2018-02-21 21:15:00+00:00,2018-02-22 02:45:00+05:30,unknown,unknown,unknown,8.9,28.646835,77.316032,unknown,unknown,,,2018-02-21,21,Wednesday,2018-02,True
+235,384,"Anand Vihar, New Delhi - DPCC",2018-02-21 21:15:00+00:00,2018-02-22 02:45:00+05:30,unknown,unknown,unknown,271.0,28.646835,77.316032,unknown,unknown,,,2018-02-21,21,Wednesday,2018-02,True
+235,12235605,"Anand Vihar, New Delhi - DPCC",2026-03-13 01:30:00+00:00,2026-03-13 07:00:00+05:30,unknown,unknown,unknown,3.26,28.646835,77.316032,unknown,unknown,,,2026-03-13,1,Friday,2026-03,True
+235,12235606,"Anand Vihar, New Delhi - DPCC",2026-03-13 01:30:00+00:00,2026-03-13 07:00:00+05:30,unknown,unknown,unknown,31.4,28.646835,77.316032,unknown,unknown,,,2026-03-13,1,Friday,2026-03,True
+235,12235607,"Anand Vihar, New Delhi - DPCC",2026-03-13 01:30:00+00:00,2026-03-13 07:00:00+05:30,unknown,unknown,unknown,2.3,28.646835,77.316032,unknown,unknown,,,2026-03-13,1,Friday,2026-03,True
+235,12235608,"Anand Vihar, New Delhi - DPCC",2026-03-13 01:30:00+00:00,2026-03-13 07:00:00+05:30,unknown,unknown,unknown,6.4,28.646835,77.316032,unknown,unknown,,,2026-03-13,1,Friday,2026-03,True
+235,12235609,"Anand Vihar, New Delhi - DPCC",2026-03-13 01:30:00+00:00,2026-03-13 07:00:00+05:30,unknown,unknown,unknown,300.0,28.646835,77.316032,unknown,unknown,,,2026-03-13,1,Friday,2026-03,True
+235,12235610,"Anand Vihar, New Delhi - DPCC",2026-03-13 01:30:00+00:00,2026-03-13 07:00:00+05:30,unknown,unknown,unknown,97.0,28.646835,77.316032,unknown,unknown,,,2026-03-13,1,Friday,2026-03,True
+235,12235611,"Anand Vihar, New Delhi - DPCC",2026-03-13 01:30:00+00:00,2026-03-13 07:00:00+05:30,unknown,unknown,unknown,67.0,28.646835,77.316032,unknown,unknown,,,2026-03-13,1,Friday,2026-03,True
+235,12235612,"Anand Vihar, New Delhi - DPCC",2026-03-13 01:30:00+00:00,2026-03-13 07:00:00+05:30,unknown,unknown,unknown,25.5,28.646835,77.316032,unknown,unknown,,,2026-03-13,1,Friday,2026-03,True
+235,12235613,"Anand Vihar, New Delhi - DPCC",2026-03-13 01:30:00+00:00,2026-03-13 07:00:00+05:30,unknown,unknown,unknown,24.0,28.646835,77.316032,unknown,unknown,,,2026-03-13,1,Friday,2026-03,True
+235,14340864,"Anand Vihar, New Delhi - DPCC",2026-03-13 01:30:00+00:00,2026-03-13 07:00:00+05:30,unknown,unknown,unknown,0.0266999999999999,28.646835,77.316032,unknown,unknown,,,2026-03-13,1,Friday,2026-03,True
+235,14340865,"Anand Vihar, New Delhi - DPCC",2026-03-13 01:30:00+00:00,2026-03-13 07:00:00+05:30,unknown,unknown,unknown,130.0,28.646835,77.316032,unknown,unknown,,,2026-03-13,1,Friday,2026-03,True
+235,14340866,"Anand Vihar, New Delhi - DPCC",2026-03-13 01:30:00+00:00,2026-03-13 07:00:00+05:30,unknown,unknown,unknown,0.3,28.646835,77.316032,unknown,unknown,,,2026-03-13,1,Friday,2026-03,True
+236,387,"Mandir Marg, Delhi - DPCC",2018-02-21 21:15:00+00:00,2018-02-22 02:45:00+05:30,unknown,unknown,unknown,14.47,28.6341,77.2005,unknown,unknown,,,2018-02-21,21,Wednesday,2018-02,True
+236,388,"Mandir Marg, Delhi - DPCC",2018-02-21 21:15:00+00:00,2018-02-22 02:45:00+05:30,unknown,unknown,unknown,149.0,28.6341,77.2005,unknown,unknown,,,2018-02-21,21,Wednesday,2018-02,True
+236,389,"Mandir Marg, Delhi - DPCC",2018-02-21 20:45:00+00:00,2018-02-22 02:15:00+05:30,unknown,unknown,unknown,63.1,28.6341,77.2005,unknown,unknown,,,2018-02-21,20,Wednesday,2018-02,True
+236,390,"Mandir Marg, Delhi - DPCC",2018-02-21 21:15:00+00:00,2018-02-22 02:45:00+05:30,unknown,unknown,unknown,2.6,28.6341,77.2005,unknown,unknown,,,2018-02-21,21,Wednesday,2018-02,True
+236,391,"Mandir Marg, Delhi - DPCC",2018-02-21 21:15:00+00:00,2018-02-22 02:45:00+05:30,unknown,unknown,unknown,208.0,28.6341,77.2005,unknown,unknown,,,2018-02-21,21,Wednesday,2018-02,True
+286,474,Collectorate - Gaya - BSPCB,2018-02-22 03:00:00+00:00,2018-02-22 08:30:00+05:30,unknown,unknown,unknown,131.2,24.7489694,84.9438395,unknown,unknown,,,2018-02-22,3,Thursday,2018-02,True
+286,562,Collectorate - Gaya - BSPCB,2018-02-22 03:00:00+00:00,2018-02-22 08:30:00+05:30,unknown,unknown,unknown,105.0,24.7489694,84.9438395,unknown,unknown,,,2018-02-22,3,Thursday,2018-02,True
+286,563,Collectorate - Gaya - BSPCB,2018-02-22 03:00:00+00:00,2018-02-22 08:30:00+05:30,unknown,unknown,unknown,9.5,24.7489694,84.9438395,unknown,unknown,,,2018-02-22,3,Thursday,2018-02,True
+286,565,Collectorate - Gaya - BSPCB,2018-02-22 03:00:00+00:00,2018-02-22 08:30:00+05:30,unknown,unknown,unknown,43.7,24.7489694,84.9438395,unknown,unknown,,,2018-02-22,3,Thursday,2018-02,True
+301,506,"Vikas Sadan, Gurugram - HSPCB",2016-04-12 09:30:00+00:00,2016-04-12 15:00:00+05:30,unknown,unknown,unknown,132.94,28.4501238,77.0263051,unknown,unknown,,,2016-04-12,9,Tuesday,2016-04,True
+301,1166,"Vikas Sadan, Gurugram - HSPCB",2022-10-31 02:00:00+00:00,2022-10-31 07:30:00+05:30,unknown,unknown,unknown,152.9,28.4501238,77.0263051,unknown,unknown,,,2022-10-31,2,Monday,2022-10,True
+301,5396,"Vikas Sadan, Gurugram - HSPCB",2022-10-31 02:00:00+00:00,2022-10-31 07:30:00+05:30,unknown,unknown,unknown,210.0,28.4501238,77.0263051,unknown,unknown,,,2022-10-31,2,Monday,2022-10,True
+301,5405,"Vikas Sadan, Gurugram - HSPCB",2022-10-31 02:00:00+00:00,2022-10-31 07:30:00+05:30,unknown,unknown,unknown,25.92,28.4501238,77.0263051,unknown,unknown,,,2022-10-31,2,Monday,2022-10,True
+301,5407,"Vikas Sadan, Gurugram - HSPCB",2022-10-31 02:00:00+00:00,2022-10-31 07:30:00+05:30,unknown,unknown,unknown,3.74,28.4501238,77.0263051,unknown,unknown,,,2022-10-31,2,Monday,2022-10,True
+301,5409,"Vikas Sadan, Gurugram - HSPCB",2022-10-31 02:00:00+00:00,2022-10-31 07:30:00+05:30,unknown,unknown,unknown,15.34,28.4501238,77.0263051,unknown,unknown,,,2022-10-31,2,Monday,2022-10,True
+301,14258983,"Vikas Sadan, Gurugram - HSPCB",2026-03-13 04:00:00+00:00,2026-03-13 09:30:00+05:30,unknown,unknown,unknown,1.89,28.4501238,77.0263051,unknown,unknown,,,2026-03-13,4,Friday,2026-03,True
+301,14258984,"Vikas Sadan, Gurugram - HSPCB",2026-03-13 04:00:00+00:00,2026-03-13 09:30:00+05:30,unknown,unknown,unknown,49.74,28.4501238,77.0263051,unknown,unknown,,,2026-03-13,4,Friday,2026-03,True
+301,14258985,"Vikas Sadan, Gurugram - HSPCB",2026-03-13 04:00:00+00:00,2026-03-13 09:30:00+05:30,unknown,unknown,unknown,30.72,28.4501238,77.0263051,unknown,unknown,,,2026-03-13,4,Friday,2026-03,True
+301,14258986,"Vikas Sadan, Gurugram - HSPCB",2026-03-13 04:00:00+00:00,2026-03-13 09:30:00+05:30,unknown,unknown,unknown,22.17,28.4501238,77.0263051,unknown,unknown,,,2026-03-13,4,Friday,2026-03,True
+301,14258987,"Vikas Sadan, Gurugram - HSPCB",2026-03-13 04:00:00+00:00,2026-03-13 09:30:00+05:30,unknown,unknown,unknown,202.5,28.4501238,77.0263051,unknown,unknown,,,2026-03-13,4,Friday,2026-03,True
+301,14258988,"Vikas Sadan, Gurugram - HSPCB",2026-03-13 04:00:00+00:00,2026-03-13 09:30:00+05:30,unknown,unknown,unknown,148.5,28.4501238,77.0263051,unknown,unknown,,,2026-03-13,4,Friday,2026-03,True
+301,14258990,"Vikas Sadan, Gurugram - HSPCB",2026-03-13 04:00:00+00:00,2026-03-13 09:30:00+05:30,unknown,unknown,unknown,5.97,28.4501238,77.0263051,unknown,unknown,,,2026-03-13,4,Friday,2026-03,True
+301,14341789,"Vikas Sadan, Gurugram - HSPCB",2026-03-13 04:00:00+00:00,2026-03-13 09:30:00+05:30,unknown,unknown,unknown,0.07257,28.4501238,77.0263051,unknown,unknown,,,2026-03-13,4,Friday,2026-03,True
+301,14341790,"Vikas Sadan, Gurugram - HSPCB",2026-03-13 04:00:00+00:00,2026-03-13 09:30:00+05:30,unknown,unknown,unknown,278.13,28.4501238,77.0263051,unknown,unknown,,,2026-03-13,4,Friday,2026-03,True
+301,14341791,"Vikas Sadan, Gurugram - HSPCB",2026-03-13 04:00:00+00:00,2026-03-13 09:30:00+05:30,unknown,unknown,unknown,1.79,28.4501238,77.0263051,unknown,unknown,,,2026-03-13,4,Friday,2026-03,True
+346,593,"MD University, Rohtak - HSPCB",2018-02-22 03:45:00+00:00,2018-02-22 09:15:00+05:30,unknown,unknown,unknown,17.0,28.876028,76.619464,unknown,unknown,,,2018-02-22,3,Thursday,2018-02,True
+346,612,"MD University, Rohtak - HSPCB",2018-02-22 03:45:00+00:00,2018-02-22 09:15:00+05:30,unknown,unknown,unknown,30.87,28.876028,76.619464,unknown,unknown,,,2018-02-22,3,Thursday,2018-02,True
+346,613,"MD University, Rohtak - HSPCB",2018-02-22 03:45:00+00:00,2018-02-22 09:15:00+05:30,unknown,unknown,unknown,13.55,28.876028,76.619464,unknown,unknown,,,2018-02-22,3,Thursday,2018-02,True
+346,13545,"MD University, Rohtak - HSPCB",2017-10-13 09:15:00+00:00,2017-10-13 14:45:00+05:30,unknown,unknown,unknown,72.92,28.876028,76.619464,unknown,unknown,,,2017-10-13,9,Friday,2017-10,True
+346,14306,"MD University, Rohtak - HSPCB",2018-02-22 03:45:00+00:00,2018-02-22 09:15:00+05:30,unknown,unknown,unknown,132.25,28.876028,76.619464,unknown,unknown,,,2018-02-22,3,Thursday,2018-02,True
+354,605,"Lalbagh, DN Park",2018-02-22 04:00:00+00:00,2018-02-22 09:30:00+05:30,unknown,unknown,unknown,22.72,26.84578611,80.93874444,unknown,unknown,,,2018-02-22,4,Thursday,2018-02,True
+354,606,"Lalbagh, DN Park",2018-02-22 04:00:00+00:00,2018-02-22 09:30:00+05:30,unknown,unknown,unknown,109.32,26.84578611,80.93874444,unknown,unknown,,,2018-02-22,4,Thursday,2018-02,True
+354,14362,"Lalbagh, DN Park",2018-02-22 04:00:00+00:00,2018-02-22 09:30:00+05:30,unknown,unknown,unknown,224.64,26.84578611,80.93874444,unknown,unknown,,,2018-02-22,4,Thursday,2018-02,True
+354,14363,"Lalbagh, DN Park",2018-02-22 04:00:00+00:00,2018-02-22 09:30:00+05:30,unknown,unknown,unknown,30.9,26.84578611,80.93874444,unknown,unknown,,,2018-02-22,4,Thursday,2018-02,True
+378,5352,Alandur Bus Depot,2018-02-22 03:45:00+00:00,2018-02-22 09:15:00+05:30,unknown,unknown,unknown,6.82,12.99711389,80.19151667,unknown,unknown,,,2018-02-22,3,Thursday,2018-02,True
+378,5374,Alandur Bus Depot,2018-02-22 03:45:00+00:00,2018-02-22 09:15:00+05:30,unknown,unknown,unknown,12.39,12.99711389,80.19151667,unknown,unknown,,,2018-02-22,3,Thursday,2018-02,True
+378,14304,Alandur Bus Depot,2018-02-22 03:45:00+00:00,2018-02-22 09:15:00+05:30,unknown,unknown,unknown,111.73,12.99711389,80.19151667,unknown,unknown,,,2018-02-22,3,Thursday,2018-02,True
+378,14305,Alandur Bus Depot,2018-02-22 03:45:00+00:00,2018-02-22 09:15:00+05:30,unknown,unknown,unknown,29.3,12.99711389,80.19151667,unknown,unknown,,,2018-02-22,3,Thursday,2018-02,True
+407,711,"Zoo Park, Hyderabad - TSPCB",2022-10-31 02:00:00+00:00,2022-10-31 07:30:00+05:30,unknown,unknown,unknown,14.1,17.349694,78.451437,unknown,unknown,,,2022-10-31,2,Monday,2022-10,True
+407,712,"Zoo Park, Hyderabad - TSPCB",2022-10-31 02:00:00+00:00,2022-10-31 07:30:00+05:30,unknown,unknown,unknown,18.7,17.349694,78.451437,unknown,unknown,,,2022-10-31,2,Monday,2022-10,True
+407,713,"Zoo Park, Hyderabad - TSPCB",2022-10-31 02:00:00+00:00,2022-10-31 07:30:00+05:30,unknown,unknown,unknown,0.0,17.349694,78.451437,unknown,unknown,,,2022-10-31,2,Monday,2022-10,True
+407,714,"Zoo Park, Hyderabad - TSPCB",2022-10-31 02:00:00+00:00,2022-10-31 07:30:00+05:30,unknown,unknown,unknown,83.0,17.349694,78.451437,unknown,unknown,,,2022-10-31,2,Monday,2022-10,True
+407,715,"Zoo Park, Hyderabad - TSPCB",2022-10-31 02:00:00+00:00,2022-10-31 07:30:00+05:30,unknown,unknown,unknown,126.0,17.349694,78.451437,unknown,unknown,,,2022-10-31,2,Monday,2022-10,True
+407,12235578,"Zoo Park, Hyderabad - TSPCB",2026-03-13 04:15:00+00:00,2026-03-13 09:45:00+05:30,unknown,unknown,unknown,0.54,17.349694,78.451437,unknown,unknown,,,2026-03-13,4,Friday,2026-03,True
+407,12235579,"Zoo Park, Hyderabad - TSPCB",2026-03-13 04:15:00+00:00,2026-03-13 09:45:00+05:30,unknown,unknown,unknown,1.6,17.349694,78.451437,unknown,unknown,,,2026-03-13,4,Friday,2026-03,True
+407,12235580,"Zoo Park, Hyderabad - TSPCB",2026-03-13 04:15:00+00:00,2026-03-13 09:45:00+05:30,unknown,unknown,unknown,7.0,17.349694,78.451437,unknown,unknown,,,2026-03-13,4,Friday,2026-03,True
+407,12235581,"Zoo Park, Hyderabad - TSPCB",2026-03-13 04:15:00+00:00,2026-03-13 09:45:00+05:30,unknown,unknown,unknown,26.9,17.349694,78.451437,unknown,unknown,,,2026-03-13,4,Friday,2026-03,True
+407,12235582,"Zoo Park, Hyderabad - TSPCB",2026-03-13 04:15:00+00:00,2026-03-13 09:45:00+05:30,unknown,unknown,unknown,123.0,17.349694,78.451437,unknown,unknown,,,2026-03-13,4,Friday,2026-03,True
+407,12235583,"Zoo Park, Hyderabad - TSPCB",2026-03-13 04:15:00+00:00,2026-03-13 09:45:00+05:30,unknown,unknown,unknown,53.0,17.349694,78.451437,unknown,unknown,,,2026-03-13,4,Friday,2026-03,True
+407,12235584,"Zoo Park, Hyderabad - TSPCB",2026-03-13 04:15:00+00:00,2026-03-13 09:45:00+05:30,unknown,unknown,unknown,44.0,17.349694,78.451437,unknown,unknown,,,2026-03-13,4,Friday,2026-03,True
+407,12235585,"Zoo Park, Hyderabad - TSPCB",2026-03-13 04:15:00+00:00,2026-03-13 09:45:00+05:30,unknown,unknown,unknown,1.8,17.349694,78.451437,unknown,unknown,,,2026-03-13,4,Friday,2026-03,True
+407,12235586,"Zoo Park, Hyderabad - TSPCB",2026-03-13 04:15:00+00:00,2026-03-13 09:45:00+05:30,unknown,unknown,unknown,19.6,17.349694,78.451437,unknown,unknown,,,2026-03-13,4,Friday,2026-03,True
+407,14340861,"Zoo Park, Hyderabad - TSPCB",2026-03-13 04:15:00+00:00,2026-03-13 09:45:00+05:30,unknown,unknown,unknown,0.0050999999999999,17.349694,78.451437,unknown,unknown,,,2026-03-13,4,Friday,2026-03,True
+407,14340862,"Zoo Park, Hyderabad - TSPCB",2026-03-13 04:15:00+00:00,2026-03-13 09:45:00+05:30,unknown,unknown,unknown,307.0,17.349694,78.451437,unknown,unknown,,,2026-03-13,4,Friday,2026-03,True
+407,14340863,"Zoo Park, Hyderabad - TSPCB",2026-03-13 04:15:00+00:00,2026-03-13 09:45:00+05:30,unknown,unknown,unknown,0.8,17.349694,78.451437,unknown,unknown,,,2026-03-13,4,Friday,2026-03,True
+412,1518,"Peenya, Bengaluru - KSPCB",2018-02-22 02:45:00+00:00,2018-02-22 08:15:00+05:30,unknown,unknown,unknown,25.02,13.0339,77.51321111,unknown,unknown,,,2018-02-22,2,Thursday,2018-02,True
+412,13852,"Peenya, Bengaluru - KSPCB",2018-02-22 02:45:00+00:00,2018-02-22 08:15:00+05:30,unknown,unknown,unknown,43.79,13.0339,77.51321111,unknown,unknown,,,2018-02-22,2,Thursday,2018-02,True
+412,13853,"Peenya, Bengaluru - KSPCB",2018-02-22 02:45:00+00:00,2018-02-22 08:15:00+05:30,unknown,unknown,unknown,3.83,13.0339,77.51321111,unknown,unknown,,,2018-02-22,2,Thursday,2018-02,True
+431,747,"IHBAS, Delhi - CPCB",2018-02-22 02:45:00+00:00,2018-02-22 08:15:00+05:30,unknown,unknown,unknown,121.43,28.6821,77.305,unknown,unknown,,,2018-02-22,2,Thursday,2018-02,True
+431,13867,"IHBAS, Delhi - CPCB",2018-02-22 02:45:00+00:00,2018-02-22 08:15:00+05:30,unknown,unknown,unknown,6.42,28.6821,77.305,unknown,unknown,,,2018-02-22,2,Thursday,2018-02,True
+431,13868,"IHBAS, Delhi - CPCB",2018-02-22 02:45:00+00:00,2018-02-22 08:15:00+05:30,unknown,unknown,unknown,11.9,28.6821,77.305,unknown,unknown,,,2018-02-22,2,Thursday,2018-02,True
+594,1427,"BTM Layout, Bengaluru - KSPCB",2018-02-22 03:00:00+00:00,2018-02-22 08:30:00+05:30,unknown,unknown,unknown,131.87,12.912811110000002,77.60921944,unknown,unknown,,,2018-02-22,3,Thursday,2018-02,True
+594,4886,"BTM Layout, Bengaluru - KSPCB",2018-02-22 03:00:00+00:00,2018-02-22 08:30:00+05:30,unknown,unknown,unknown,15.57,12.912811110000002,77.60921944,unknown,unknown,,,2018-02-22,3,Thursday,2018-02,True
+594,13836,"BTM Layout, Bengaluru - KSPCB",2018-02-22 03:00:00+00:00,2018-02-22 08:30:00+05:30,unknown,unknown,unknown,45.62,12.912811110000002,77.60921944,unknown,unknown,,,2018-02-22,3,Thursday,2018-02,True
+594,13837,"BTM Layout, Bengaluru - KSPCB",2018-02-22 03:00:00+00:00,2018-02-22 08:30:00+05:30,unknown,unknown,unknown,4.49,12.912811110000002,77.60921944,unknown,unknown,,,2018-02-22,3,Thursday,2018-02,True
+697,1205,"Haldia, Haldia - WBPCB",2022-10-31 02:00:00+00:00,2022-10-31 07:30:00+05:30,unknown,unknown,unknown,16.52,22.06047,88.109737,unknown,unknown,,,2022-10-31,2,Monday,2022-10,True
+697,1206,"Haldia, Haldia - WBPCB",2022-10-31 02:00:00+00:00,2022-10-31 07:30:00+05:30,unknown,unknown,unknown,14.96,22.06047,88.109737,unknown,unknown,,,2022-10-31,2,Monday,2022-10,True
+697,1208,"Haldia, Haldia - WBPCB",2022-10-31 02:00:00+00:00,2022-10-31 07:30:00+05:30,unknown,unknown,unknown,14.9,22.06047,88.109737,unknown,unknown,,,2022-10-31,2,Monday,2022-10,True
+697,1209,"Haldia, Haldia - WBPCB",2022-10-31 02:00:00+00:00,2022-10-31 07:30:00+05:30,unknown,unknown,unknown,85.33,22.06047,88.109737,unknown,unknown,,,2022-10-31,2,Monday,2022-10,True
+697,234638,"Haldia, Haldia - WBPCB",2022-10-31 02:00:00+00:00,2022-10-31 07:30:00+05:30,unknown,unknown,unknown,24.39,22.06047,88.109737,unknown,unknown,,,2022-10-31,2,Monday,2022-10,True
+703,1220,Collectorate Jodhpur - RSPCB,2018-02-22 03:45:00+00:00,2018-02-22 09:15:00+05:30,unknown,unknown,unknown,70.0,26.2920639,73.0379111111111,unknown,unknown,,,2018-02-22,3,Thursday,2018-02,True
+703,1222,Collectorate Jodhpur - RSPCB,2018-02-22 03:45:00+00:00,2018-02-22 09:15:00+05:30,unknown,unknown,unknown,4.81,26.2920639,73.0379111111111,unknown,unknown,,,2018-02-22,3,Thursday,2018-02,True
+703,1223,Collectorate Jodhpur - RSPCB,2016-06-24 10:45:00+00:00,2016-06-24 16:15:00+05:30,unknown,unknown,unknown,5.63,26.2920639,73.0379111111111,unknown,unknown,,,2016-06-24,10,Friday,2016-06,True
+703,1224,Collectorate Jodhpur - RSPCB,2018-02-22 03:45:00+00:00,2018-02-22 09:15:00+05:30,unknown,unknown,unknown,146.3,26.2920639,73.0379111111111,unknown,unknown,,,2018-02-22,3,Thursday,2018-02,True
+703,1225,Collectorate Jodhpur - RSPCB,2018-02-22 03:45:00+00:00,2018-02-22 09:15:00+05:30,unknown,unknown,unknown,353.0,26.2920639,73.0379111111111,unknown,unknown,,,2018-02-22,3,Thursday,2018-02,True
+703,1226,Collectorate Jodhpur - RSPCB,2018-02-22 03:45:00+00:00,2018-02-22 09:15:00+05:30,unknown,unknown,unknown,68.44,26.2920639,73.0379111111111,unknown,unknown,,,2018-02-22,3,Thursday,2018-02,True
