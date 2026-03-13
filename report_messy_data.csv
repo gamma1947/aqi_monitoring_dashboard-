@@ -1,0 +1,1 @@
+location_id,sensor_id,location_name,datetime_utc,datetime_local,parameter,parameter_display,units,value,coordinates_latitude,coordinates_longitude,country_code,country_name,is_mobile,is_monitor,datetime_utc_parsed,datetime_local_parsed
