@@ -39,6 +39,58 @@ This project develops a **reproducible data pipeline and visualization dashboard
 
 ---
 
+# 🌐 Data Source: OpenAQ API
+
+Air quality observations used in this project were obtained from the **OpenAQ platform**, an open-source initiative that aggregates air quality measurements from governmental and research-grade monitoring networks worldwide.
+
+The OpenAQ API provides programmatic access to environmental measurements including:
+
+- Particulate matter concentrations
+- Gaseous pollutants
+- Sensor metadata
+- Monitoring station locations
+- Measurement timestamps
+
+For this project, the API was used to retrieve data from monitoring stations across **India**, including information about pollutant concentration, reporting intervals, and station metadata.
+
+API requests were implemented using Python and structured into a reproducible ingestion pipeline that automatically retrieves and formats the data for downstream processing.
+
+More information: https://docs.openaq.org/
+
+# Variable and Location Selection
+
+### 1. Pollutant Variables Selected
+
+Air Quality Index (AQI) calculations typically rely on a subset of key atmospheric pollutants that are known to have strong health impacts. For this project, six commonly monitored pollutants were selected from the OpenAQ dataset:
+
+| Pollutant | Description |
+|-----------|-------------|
+| PM2.5 | Fine particulate matter smaller than 2.5 µm |
+| PM10 | Particulate matter smaller than 10 µm |
+| NO₂ | Nitrogen dioxide |
+| SO₂ | Sulfur dioxide |
+| CO | Carbon monoxide |
+| O₃ | Ozone |
+
+These pollutants were selected because they are the **primary components used in most national AQI frameworks**, including those used by environmental agencies such as the Central Pollution Control Board (CPCB).
+
+Filtering the dataset to these variables ensures consistency in comparing pollution trends across monitoring stations.
+
+### 2. Monitoring station selection
+
+Montoring stations with all 6 sensors available are only selected.
+Some cities contain multiple monitoring stations, while others may only have a single reporting sensor.
+
+To ensure consistent city-level comparisons, the following strategy was used:
+
+- **Cities with a single monitoring station**  
+  The station measurements are used directly as the representative air quality record for that location.
+
+- **Cities with multiple monitoring stations**  
+  Pollutant concentrations are aggregated across stations using the **mean value** to obtain a city-level estimate.
+
+This aggregation helps reduce the influence of **sensor-specific noise or calibration differences** while still allowing smaller urban centers with limited monitoring infrastructure to be included in the analysis.
+
 # 🧠 System Architecture
 
 The project follows a modular pipeline architecture:
@@ -71,7 +123,7 @@ Sensor data is standardized to ensure consistency in:
 
 - Units  
 - Timestamp formats  
-- Reporting frequency  
+- Reporting frequency
 
 ### 3. Data Cleaning
 The cleaning pipeline addresses:
