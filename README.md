@@ -1,4 +1,4 @@
-# 🌍 Air Quality Monitoring Dashboard
+# Air Quality Monitoring Dashboard
 
 An interactive **Air Quality Monitoring Dashboard** built using real-world environmental sensor data.  
 This project was developed as part of the **Data Science Practices course** taught by Prof. Bedarth Goswami at IISER Pune.
@@ -9,7 +9,7 @@ The goal of the project is to understand **temporal pollution patterns, spatial 
 
 ---
 
-# 📊 Project Overview
+# Project Overview
 
 Urban air quality monitoring relies heavily on distributed sensor networks that collect environmental data across different locations and time intervals. However, such real-world data often contains issues such as:
 
@@ -28,7 +28,7 @@ This project develops a **reproducible data pipeline and visualization dashboard
 
 ---
 
-# ⚙️ Technologies Used
+# Technologies Used
 
 - Python  
 - Streamlit — interactive dashboard interface  
@@ -39,7 +39,7 @@ This project develops a **reproducible data pipeline and visualization dashboard
 
 ---
 
-# 🌐 Data Source: OpenAQ API
+# Data Source: OpenAQ API
 
 Air quality observations used in this project were obtained from the **OpenAQ platform**, an open-source initiative that aggregates air quality measurements from governmental and research-grade monitoring networks worldwide.
 
@@ -91,7 +91,7 @@ To ensure consistent city-level comparisons, the following strategy was used:
 
 This aggregation helps reduce the influence of **sensor-specific noise or calibration differences** while still allowing smaller urban centers with limited monitoring infrastructure to be included in the analysis.
 
-# 🧠 System Architecture
+# System Architecture
 
 The project follows a modular pipeline architecture:
 
@@ -113,7 +113,7 @@ Visualization Dashboard (Streamlit)
 
 ---
 
-# 🧹 Data Processing Pipeline
+# Data Processing Pipeline
 
 ### 1. Data Ingestion
 Air quality data is fetched using the **OpenAQ API**, covering multiple monitoring stations.
@@ -140,11 +140,17 @@ Two different strategies were explored:
 1. **Interpolation-based approach**
 2. **Model-based imputation**
 
+### 5. Spatial grouping of data
+1. Coordinate Mapping: Link each sensor station ID to its precise GPS coordinates (Latitude/Longitude)
+2. Define Clusters: Group sensors by administrative boundaries (like city wards) or proximity-based algorithms (like K-Means).
+3. Aggregate Metrics: Calculate mean or median pollution levels ($PM_{2.5}$ or $NO_{2}$) for each identified group
+4. Visualize: Plot these spatial groups on an interactive map to communicate regional differences and data uncertainty.
+
 These methods were compared to understand how data-repair strategies affect environmental interpretation.
 
 ---
 
-# 📈 Dashboard Features
+# Dashboard Features
 
 The dashboard provides:
 
@@ -169,7 +175,7 @@ The system identifies and visualizes:
 
 ---
 
-# 🖥️ Running the Dashboard
+# Running the Dashboard
 
 ### Clone the Repository
 
@@ -194,7 +200,7 @@ The dashboard will open in your browser.
 
 ---
 
-# 📂 Project Structure
+# Project Structure
 
 ```
 air-quality-dashboard
@@ -212,7 +218,7 @@ air-quality-dashboard
 
 ---
 
-# 🔬 Key Insights Explored
+# Key Insights Explored
 
 - Temporal trends in air pollution levels  
 - Spatial variation across monitoring stations  
@@ -221,7 +227,7 @@ air-quality-dashboard
 
 ---
 
-# ⚠️ Limitations
+# Limitations
 
 - Sensor networks may have **calibration drift** over time  
 - Data availability varies across monitoring stations  
@@ -232,13 +238,13 @@ These limitations highlight the importance of **careful preprocessing and transp
 
 ---
 
-# 👥 Contributors
+# Contributors
 
 | Name | Contribution |
 |-----|-------------|
 | Ajay Kasaudhan | GUI development and dashboard design |
 | Ashik | API integration and data ingestion |
-| Hitesh CK | System architecture design |
+| Hitesh CK | Spatial data analysis |
 | Sahil Rajput | Data cleaning and interpolation methods |
 
 ---
