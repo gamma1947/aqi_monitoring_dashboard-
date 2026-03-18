@@ -1,0 +1,16 @@
+column,null_count,null_percent
+country_code,147,100.0
+country_name,147,100.0
+is_mobile,147,100.0
+is_monitor,147,100.0
+parameter,147,100.0
+parameter_display,147,100.0
+units,147,100.0
+coordinates_latitude,0,0.0
+coordinates_longitude,0,0.0
+datetime_local,0,0.0
+datetime_utc,0,0.0
+location_id,0,0.0
+location_name,0,0.0
+sensor_id,0,0.0
+value,0,0.0
