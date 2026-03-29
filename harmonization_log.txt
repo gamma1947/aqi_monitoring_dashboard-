@@ -1,0 +1,57 @@
+=== Harmonization Log ===
+Start: 2026-03-29T13:04:09.356965
+
+[2026-03-29T13:04:09.518659] ✓ Loaded raw data: openaq_raw_data.csv (123015 rows)
+[2026-03-29T13:04:09.597767] 
+============================================================
+[2026-03-29T13:04:09.597881] TASK 2: HARMONIZATION - Starting
+[2026-03-29T13:04:09.597919] ============================================================
+[2026-03-29T13:04:09.611014] 
+[STEP 1/6] Normalizing parameter names...
+[2026-03-29T13:04:09.698545] ✓ Processed 1 parameter variations
+[2026-03-29T13:04:09.698946] 
+[STEP 2/6] Normalizing unit names...
+[2026-03-29T13:04:09.768022] ✓ Processed 1 unit variations
+[2026-03-29T13:04:09.768145] 
+[STEP 3/6] Converting to standardized units...
+[2026-03-29T13:04:12.142457] ✓ Applied 123015 unit conversions
+[2026-03-29T13:04:12.142787] 
+Conversion examples:
+[2026-03-29T13:04:12.152020]   pm25: 0.0 µg/m³ -> 0.00 µg/m³
+[2026-03-29T13:04:12.152198]   pm25: 573.0 µg/m³ -> 573.00 µg/m³
+[2026-03-29T13:04:12.152247] 
+[STEP 4/6] Harmonizing timestamps...
+[2026-03-29T13:04:12.176800] ✓ Timestamps synchronized
+[2026-03-29T13:04:12.177512]   Date range: 2020-12-31 21:30:00+00:00 to 2021-12-30 14:30:00+00:00
+[2026-03-29T13:04:12.177566] 
+[STEP 5/6] Validating measurement quality...
+[2026-03-29T13:04:12.208216] ✓ Flagged 30 measurements with quality issues
+[2026-03-29T13:04:12.215917]   negative_value: 30
+[2026-03-29T13:04:12.216055] 
+[STEP 6/6] Analyzing reporting frequency...
+[2026-03-29T13:04:12.299016] ✓ Analyzed reporting frequency for 26 locations
+[2026-03-29T13:04:12.299239]   Average frequency: 1.9 hours
+[2026-03-29T13:04:12.299369]   Range: 0.7 - 2.5 hours
+[2026-03-29T13:04:12.299416] 
+============================================================
+[2026-03-29T13:04:12.299450] ✓ TASK 2 COMPLETED: Harmonization Successful
+[2026-03-29T13:04:12.299479] ============================================================
+[2026-03-29T13:04:14.430821] 
+✓ Harmonized data saved to: openaq_harmonized_data.csv (123015 rows)
+[2026-03-29T13:04:14.431780] ✓ Frequency analysis saved to: harmonization_report.csv
+[2026-03-29T13:04:14.432015] ✓ Unit mapping reference saved to: unit_mappings.json
+[2026-03-29T13:04:14.432066] 
+============================================================
+[2026-03-29T13:04:14.432104] SUMMARY
+[2026-03-29T13:04:14.432137] ============================================================
+[2026-03-29T13:04:14.432168] Raw data rows: 123015
+[2026-03-29T13:04:14.432201] Harmonized data rows: 123015
+[2026-03-29T13:04:14.432712] Unique locations: 26
+[2026-03-29T13:04:14.433149] Unique sensors: 26
+[2026-03-29T13:04:14.435283] Parameters: pm25
+[2026-03-29T13:04:14.440027] 
+Quality flags assigned: 30 rows
+[2026-03-29T13:04:14.440128] 
+All outputs saved to current directory
+[2026-03-29T13:04:14.440164] ============================================================
+
